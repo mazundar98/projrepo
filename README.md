@@ -1,8 +1,2 @@
-# Guessing Game
-echo -n "\n**Make Date & Time:**" >> README.md
-date >> README.md
-echo -n "**No of lines in guessinggame.sh:**" >> README.md
-grep -c '' guessinggame.sh >> README.md
-**No of lines in guessinggame.sh:** -c  guessinggame.sh
-**No of lines in guessinggame.sh:**
-23
+\n**Make Date & Time:**Wed Jun  3 17:29:24 IST 2020
+**No of lines in guessinggame.sh:**23
